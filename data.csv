@@ -1,101 +1,102 @@
-100
-1;Mickey Mouse;Walt Disney;Steamboat Willie;Um rato antropomórfico alegre e aventureiro, considerado o mascote da Walt Disney Company.
-2;Bugs Bunny;Tex Avery;Looney Tunes;Um coelho inteligente e sarcástico, famoso por sua frase "What's up, doc?".
-3;Homer Simpson;Matt Groening;The Simpsons;O pai da família Simpson, conhecido por sua preguiça, amor por rosquinhas e comportamento cômico.
-4;Scooby-Doo;Joe Ruby;Scooby-Doo, Where Are You!;Um cão medroso e guloso que resolve mistérios ao lado de seus amigos da Mistério S/A.
-5;Bob Esponja Calça Quadrada;Stephen Hillenburg;SpongeBob SquarePants;Uma esponja do mar otimista e trabalhadora que vive no fundo do oceano na cidade de Fenda do Biquíni.
-6;Pikachu;Satoshi Tajiri;Pokémon;Um Pokémon do tipo elétrico, companheiro fiel do treinador Ash Ketchum, conhecido por seu grito "Pika-Pika!".
-7;Fred Flintstone;William Hanna;The Flintstones;O patriarca da família Flintstone, um operário da Idade da Pedra conhecido por seu grito "Yabba-Dabba-Doo!".
-8;Tom Cat;William Hanna;Tom and Jerry;Um gato que está constantemente em perseguição ao rato Jerry, resultando em muitas situações cômicas.
-9;Jerry Mouse;William Hanna;Tom and Jerry;Um rato astuto e travesso que sempre consegue escapar das armadilhas do gato Tom.
-10;Dexter;Genndy Tartakovsky;Dexter's Laboratory;Um jovem gênio científico que cria invenções incríveis em seu laboratório secreto.
-11;Pato Donald;Walt Disney;Donald Duck;Um pato temperamental e desastrado, conhecido por sua voz característica e suas aventuras com seus sobrinhos.
-12;Daffy Duck;Tex Avery;Looney Tunes;Um pato mal-humorado e egocêntrico, frequentemente envolvido em confusões com Bugs Bunny.
-13;Betty Boop;Max Fleischer;Betty Boop;Uma flapper dos anos 1930 com uma voz infantil e um estilo de vida glamoroso.
-14;Charlie Brown;Charles M. Schulz;Peanuts;Um menino azarado e inseguro, sempre tentando liderar seu time de beisebol e conquistar a Menina Ruiva.
-15;Snoopy;Charles M. Schulz;Peanuts;O cão beagle de Charlie Brown, conhecido por sua imaginação vívida e suas aventuras como o Ás Voador.
-16;Bart Simpson;Matt Groening;The Simpsons;O filho travesso e rebelde de Homer e Marge Simpson, famoso por suas pegadinhas e frases de efeito.
-17;Lisa Simpson;Matt Groening;The Simpsons;A filha inteligente e ética da família Simpson, conhecida por sua paixão pela música e pela justiça social.
-18;Popeye;E.C. Segar;Popeye the Sailor;Um marinheiro musculoso que ganha força ao comer espinafre, sempre em busca de salvar sua amada Olivia Palito.
-19;Wile E. Coyote;Chuck Jones;Looney Tunes;Um coiote persistente que está sempre tentando capturar o veloz Papa-Léguas, sem sucesso.
-20;Papa-Léguas;Chuck Jones;Looney Tunes;Um pássaro veloz que constantemente escapa das armadilhas do Wile E. Coyote, conhecido por seu som característico "Beep Beep!".
-21;Garfield;Jim Davis;Garfield and Friends;Um gato laranja preguiçoso e sarcástico, que adora lasanha e detesta segundas-feiras.
-22;Pinky;Tom Ruegger;Animaniacs;Um rato de laboratório bobo e otimista, companheiro do genial Cérebro em suas tentativas de conquistar o mundo.
-23;Cérebro;Tom Ruegger;Animaniacs;Um rato de laboratório superinteligente e ambicioso, sempre planejando dominar o mundo com a ajuda de Pinky.
-24;He-Man;Roger Sweet;He-Man and the Masters of the Universe;Um guerreiro poderoso que defende o reino de Eternia do malvado Esqueleto.
-25;Skeletor;Roger Sweet;He-Man and the Masters of the Universe;O principal antagonista de He-Man, um feiticeiro maligno com uma aparência esquelética.
-26;Leonardo;Kevin Eastman;Teenage Mutant Ninja Turtles;O líder das Tartarugas Ninja, especialista em ninjutsu e armado com duas espadas katana.
-27;Donatello;Kevin Eastman;Teenage Mutant Ninja Turtles;O cérebro das Tartarugas Ninja, conhecido por sua habilidade com tecnologia e sua arma bō.
-28;Michelangelo;Kevin Eastman;Teenage Mutant Ninja Turtles;O palhaço da turma, amante de pizza e armado com nunchakus.
-29;Raphael;Kevin Eastman;Teenage Mutant Ninja Turtles;O bad boy das Tartarugas Ninja, com uma personalidade rebelde e usando sais como arma.
-30;Optimus Prime;Hasbro;Transformers;O líder dos Autobots, um robô que se transforma em um caminhão e luta pela paz e justiça contra os Decepticons.
-31;Megatron;Hasbro;Transformers;O líder dos Decepticons, inimigo mortal de Optimus Prime, que se transforma em uma arma poderosa.
-32;Ash Ketchum;Satoshi Tajiri;Pokémon;Um jovem treinador Pokémon determinado a se tornar um Mestre Pokémon, sempre acompanhado por Pikachu.
-33;Sailor Moon;Naoko Takeuchi;Sailor Moon;Uma estudante que se transforma em uma guerreira mágica para lutar contra as forças do mal.
-34;Goku;Akira Toriyama;Dragon Ball;Um guerreiro Saiyajin com habilidades extraordinárias, sempre em busca de se tornar mais forte e proteger a Terra.
-35;Vegeta;Akira Toriyama;Dragon Ball;O príncipe dos Saiyajins, rival e eventual aliado de Goku, conhecido por sua ambição e orgulho.
-36;Naruto Uzumaki;Masashi Kishimoto;Naruto;Um ninja jovem e determinado que sonha em se tornar o Hokage, o líder de sua vila.
-37;Sasuke Uchiha;Masashi Kishimoto;Naruto;Um ninja talentoso e rival de Naruto, que busca vingança contra seu irmão Itachi.
-38;Sakura Haruno;Masashi Kishimoto;Naruto;Uma ninja médica e membro da equipe de Naruto, conhecida por sua força e inteligência.
-39;Tintim;Hergé;The Adventures of Tintin;Um jovem repórter e aventureiro que viaja pelo mundo solucionando mistérios.
-40;Capitão Haddock;Hergé;The Adventures of Tintin;Um marinheiro robusto e amigo leal de Tintim, conhecido por sua coragem e seu amor por whisky.
-41;Asterix;René Goscinny;Asterix;Um guerreiro gaulês pequeno mas corajoso, que luta contra os romanos com a ajuda de uma poção mágica.
-42;Obelix;René Goscinny;Asterix;O melhor amigo de Asterix, um gigante gentil que caiu em um caldeirão de poção mágica quando bebê, ganhando força sobre-humana.
-43;Jerry;Chuck Jones;Tom and Jerry;Um pequeno rato marrom que sempre consegue escapar das tentativas de captura do gato Tom.
-44;Tom;Chuck Jones;Tom and Jerry;Um gato cinza que está constantemente tentando capturar Jerry, mas geralmente falha de maneira cômica.
-45;Pica-Pau;Walter Lantz;Woody Woodpecker;Um pica-pau travesso e brincalhão, conhecido por seu riso característico e suas travessuras.
-46;Pateta;Walt Disney;Goofy;Um cão antropomórfico atrapalhado e bonachão, amigo de Mickey Mouse e Donald Duck.
-47;Penelope Pitstop;William Hanna;Wacky Races;Uma piloto de corridas corajosa e engenhosa, sempre escapando das armadilhas do vilão Dick Dastardly.
-48;Dick Dastardly;William Hanna;Wacky Races;Um vilão trapaceiro que tenta vencer as corridas de qualquer maneira, sempre acompanhado por seu cão Muttley.
-49;Muttley;William Hanna;Wacky Races;O cão assistente de Dick Dastardly, conhecido por seu riso único e sua habilidade de voar.
-50;Johnny Bravo;Van Partible;Johnny Bravo;Um jovem narcisista e musculoso, constantemente tentando conquistar mulheres, mas sempre falhando.
-51;Dexter;Genndy Tartakovsky;Dexter's Laboratory;Um jovem gênio científico que cria invenções incríveis em seu laboratório secreto.
-52;Samurai Jack;Genndy Tartakovsky;Samurai Jack;Um samurai que viaja no tempo, lutando contra o malvado feiticeiro Aku para voltar ao seu próprio tempo.
-53;Aku;Genndy Tartakovsky;Samurai Jack;O principal antagonista de Samurai Jack, um feiticeiro demoníaco que envia Jack para o futuro.
-54;Stewie Griffin;Seth MacFarlane;Family Guy;Um bebê extremamente inteligente e malévolo, com planos de dominar o mundo.
-55;Peter Griffin;Seth MacFarlane;Family Guy;O pai desajeitado e bem-intencionado da família Griffin, conhecido por suas aventuras absurdas.
-56;Bob Belcher;Loren Bouchard;Bob's Burgers;O dono de um restaurante de hambúrgueres, lutando para manter seu negócio e cuidar de sua família.
-57;Louise Belcher;Loren Bouchard;Bob's Burgers;A filha mais nova de Bob, conhecida por sua esperteza, travessuras e chapéu com orelhas de coelho.
-58;Rick Sanchez;Justin Roiland;Rick and Morty;Um cientista brilhante mas alcoólatra e cínico, que embarca em aventuras interdimensionais com seu neto Morty.
-59;Morty Smith;Justin Roiland;Rick and Morty;O neto inseguro e frequentemente relutante de Rick, que o acompanha em suas perigosas aventuras.
-60;Batman;Bob Kane;Batman: The Animated Series;O alter ego de Bruce Wayne, um vigilante mascarado que protege Gotham City do crime.
-61;Joker;Jerry Robinson;Batman: The Animated Series;O arqui-inimigo de Batman, um criminoso insano com um sorriso sinistro.
-62;Super-Homem;Joe Shuster;Superman: The Animated Series;O último filho de Krypton, um herói com superpoderes que defende a Terra contra ameaças.
-63;Mulher-Maravilha;William Moulton Marston;Justice League;Uma amazona guerreira e membro da Liga da Justiça, conhecida por sua força e senso de justiça.
-64;Lanterna Verde;John Broome;Justice League;Um super-herói com um anel de poder que pode criar construções de energia verde.
-65;Flash;Gardner Fox;Justice League;O homem mais rápido do mundo, capaz de se mover a velocidades incríveis.
-66;Homem-Aranha;Stan Lee;Spider-Man: The Animated Series;O alter ego de Peter Parker, um super-herói com habilidades de aranha que protege Nova York.
-67;Hulk;Jack Kirby;The Incredible Hulk;O alter ego de Bruce Banner, um cientista que se transforma em um monstro verde de força descomunal quando está irritado.
-68;Wolverine;Len Wein;X-Men: The Animated Series;Um mutante com habilidades regenerativas e garras retráteis, membro dos X-Men.
-69;Homem de Ferro;Stan Lee;Iron Man: The Animated Series;O alter ego de Tony Stark, um gênio bilionário que combate o crime em uma armadura tecnológica.
-70;Capitão América;Jack Kirby;Avengers: Earth's Mightiest Heroes;O alter ego de Steve Rogers, um soldado superpoderoso e líder dos Vingadores.
-71;Thor;Jack Kirby;Avengers: Earth's Mightiest Heroes;O deus do trovão asgardiano, membro dos Vingadores, com um martelo mágico chamado Mjolnir.
-72;Donald Duck;Walt Disney;Donald Duck;Um pato temperamental e desastrado, conhecido por sua voz característica e suas aventuras com seus sobrinhos.
-73;Daisy Duck;Walt Disney;Donald Duck;A namorada de Donald Duck, uma pata elegante e sofisticada.
-74;Tio Patinhas;Carl Barks;DuckTales;Um pato bilionário e avarento, tio de Huguinho, Zezinho e Luizinho, sempre em busca de mais riquezas.
-75;Huguinho, Zezinho e Luizinho;Carl Barks;DuckTales;Os sobrinhos travessos de Donald Duck, sempre se metendo em aventuras com seu Tio Patinhas.
-76;Zé Carioca;Walt Disney;Saludos Amigos;Um papagaio brasileiro, amigo de Donald Duck, conhecido por seu charme e habilidade de tocar samba.
-77;Oswald the Lucky Rabbit;Ub Iwerks;Oswald the Lucky Rabbit;Um coelho antropomórfico, precursor de Mickey Mouse.
-78;Gato Félix;Otto Messmer;Felix the Cat;Um gato preto que vive diversas aventuras, conhecido por sua bolsa mágica que pode se transformar em qualquer coisa.
-79;Astro Boy;Osamu Tezuka;Astro Boy;Um robô com sentimentos humanos, criado para proteger a humanidade.
-80;Speed Racer;Tatsuo Yoshida;Speed Racer;Um jovem piloto de corridas, dirigindo o potente carro Mach 5.
-81;Coragem, o Cão Covarde;John R. Dilworth;Courage the Cowardly Dog;Um cão medroso que enfrenta criaturas sobrenaturais para proteger seus donos.
-82;Johnny Test;Scott Fellows;Johnny Test;Um garoto aventureiro que participa de experimentos científicos realizados por suas irmãs gêmeas geniais.
-83;Ben Tennyson;Man of Action;Ben 10;Um garoto que pode se transformar em diferentes alienígenas usando o Omnitrix, um dispositivo alienígena.
-84;Jake Long;Jeff Goode;American Dragon: Jake Long;Um adolescente que se transforma em dragão para proteger a comunidade mágica de Nova York.
-85;Kim Possible;Bob Schooley;Kim Possible;Uma adolescente que é super espiã, equilibrando suas missões globais com a vida escolar.
-86;Timmy Turner;Butch Hartman;The Fairly OddParents;Um garoto que tem padrinhos mágicos que realizam seus desejos, frequentemente resultando em confusão.
-87;Jimmy Neutron;John A. Davis;The Adventures of Jimmy Neutron: Boy Genius;Um garoto gênio inventor, que cria gadgets para resolver problemas do dia a dia.
-88;Danny Phantom;Butch Hartman;Danny Phantom;Um adolescente que ganha poderes fantasmagóricos após um acidente no laboratório de seus pais.
-89;Steven Universe;Rebecca Sugar;Steven Universe;Um garoto meio humano, meio gema, que protege a Terra com suas habilidades mágicas.
-90;Star Butterfly;Daron Nefcy;Star vs. the Forces of Evil;Uma princesa mágica de outra dimensão que luta contra vilões enquanto se adapta à vida na Terra.
-91;Finn the Human;Pendleton Ward;Adventure Time;Um garoto aventureiro que luta contra o mal no Reino de Ooo ao lado de seu melhor amigo Jake, o Cão.
-92;Jake the Dog;Pendleton Ward;Adventure Time;Um cão mágico que pode mudar de forma e tamanho, companheiro leal de Finn.
-93;Mordecai;J.G. Quintel;Regular Show;Um pássaro azul antropomórfico que trabalha em um parque e vive situações absurdas com seu amigo Rigby.
-94;Rigby;J.G. Quintel;Regular Show;Um guaxinim antropomórfico, melhor amigo de Mordecai, sempre se metendo em encrencas.
-95;Dipper Pines;Alex Hirsch;Gravity Falls;Um garoto curioso que, junto com sua irmã Mabel, desvenda os mistérios de Gravity Falls.
-96;Mabel Pines;Alex Hirsch;Gravity Falls;A irmã gêmea de Dipper, otimista e enérgica, que adora aventuras e resolver mistérios.
-97;Phineas Flynn;Dan Povenmire;Phineas and Ferb;Um garoto inventivo que, junto com seu irmão Ferb, cria projetos extraordinários durante as férias de verão.
-98;Ferb Fletcher;Dan Povenmire;Phineas and Ferb;O irmão meio britânico de Phineas, conhecido por suas habilidades de engenharia e poucas palavras.
-99;Perry o Ornitorrinco;Dan Povenmire;Phineas and Ferb;O animal de estimação de Phineas e Ferb, que secretamente é um agente secreto.
-100;Rapunzel;Chris Sonnenburg;Tangled: The Series;Uma princesa com longos cabelos mágicos que embarca em aventuras para descobrir o mundo além de sua torre.
+101
+1;Mickey Mouse;Walt Disney;Steamboat Willie;Um rato antropomorfico alegre e aventureiro, considerado o mascote da Walt Disney Company;
+2;Bugs Bunny;Tex Avery;Looney Tunes;Um coelho inteligente e sarcastico, famoso por sua frase "What's up, doc?";
+3;Homer Simpson;Matt Groening;The Simpsons;O pai da familia Simpson, conhecido por sua preguica, amor por rosquinhas e comportamento comico;
+4;Scooby-Doo;Joe Ruby;Scooby-Doo, Where Are You!;Um cao medroso e guloso que resolve misterios ao lado de seus amigos da Misterio SA;
+5;Bob Esponja Calca Quadrada;Stephen Hillenburg;SpongeBob SquarePants;Uma esponja do mar otimista e trabalhadora que vive no fundo do oceano na cidade de Fenda do Bikini;
+6;Pikachu;Satoshi Tajiri;Pokemon;Um Pokemon do tipo eletrico, companheiro fiel do treinador Ash Ketchum, conhecido por seu grito "Pika-Pika!";
+7;Fred Flintstone;William Hanna;The Flintstones;O patriarca da familia Flintstone, um operario da Idade da Pedra conhecido por seu grito "Yabba-Dabba-Doo!";
+8;Tom Cat;William Hanna;Tom and Jerry;Um gato que esta constantemente em perseguicao ao rato Jerry, resultando em muitas situacoes comicas;
+9;Jerry Mouse;William Hanna;Tom and Jerry;Um rato astuto e travesso que sempre consegue escapar das armadilhas do gato Tom;
+10;Dexter;Genndy Tartakovsky;Dexter's Laboratory;Um jovem genio cientifico que cria invencoes incriveis em seu laboratorio secreto;
+11;Pato Donald;Walt Disney;Donald Duck;Um pato temperamental e desastrado, conhecido por sua voz caracteristica e suas aventuras com seus sobrinhos;
+12;Daffy Duck;Tex Avery;Looney Tunes;Um pato mal-humorado e egocentrico, frequentemente envolvido em confusoes com Bugs Bunny;
+13;Betty Boop;Max Fleischer;Betty Boop;Uma flapper dos anos 1930 com uma voz infantil e um estilo de vida glamoroso;
+14;Charlie Brown;Charles M. Schulz;Peanuts;Um menino azarado e inseguro, sempre tentando liderar seu time de beisebol e conquistar a Menina Ruiva;
+15;Snoopy;Charles M. Schulz;Peanuts;O cao beagle de Charlie Brown, conhecido por sua imaginacao vivida e suas aventuras como o As Voador;
+16;Bart Simpson;Matt Groening;The Simpsons;O filho travesso e rebelde de Homer e Marge Simpson, famoso por suas pegadinhas e frases de efeito;
+17;Lisa Simpson;Matt Groening;The Simpsons;A filha inteligente e etica da familia Simpson, conhecida por sua paixao pela musica e pela justica social;
+18;Popeye;E.C. Segar;Popeye the Sailor;Um marinheiro musculoso que ganha forca ao comer espinafre, sempre em busca de salvar sua amada Olivia Palito;
+19;Wile E. Coyote;Chuck Jones;Looney Tunes;Um coiote persistente que esta sempre tentando capturar o veloz Papa-Leguas, sem sucesso;
+20;Papa-Leguas;Chuck Jones;Looney Tunes;Um passaro veloz que constantemente escapa das armadilhas do Wile E. Coyote, conhecido por seu som caracteristico "Beep Beep!";
+21;Garfield;Jim Davis;Garfield and Friends;Um gato laranja pregui�oso e sarcastico, que adora lasanha e detesta segundas-feiras;
+22;Pinky;Tom Ruegger;Animaniacs;Um rato de laboratorio bobo e otimista, companheiro do genial Cerebro em suas tentativas de conquistar o mundo;
+23;Cerebro;Tom Ruegger;Animaniacs;Um rato de laboratorio superinteligente e ambicioso, sempre planejando dominar o mundo com a ajuda de Pinky;
+24;He-Man;Roger Sweet;He-Man and the Masters of the Universe;Um guerreiro poderoso que defende o reino de Eternia do malvado Esqueleto;
+25;Skeletor;Roger Sweet;He-Man and the Masters of the Universe;O principal antagonista de He-Man, um feiticeiro maligno com uma aparencia esqueletica;
+26;Leonardo;Kevin Eastman;Teenage Mutant Ninja Turtles;O lider das Tartarugas Ninja, especialista em ninjutsu e armado com duas espadas katana;
+27;Donatello;Kevin Eastman;Teenage Mutant Ninja Turtles;O cerebro das Tartarugas Ninja, conhecido por sua habilidade com tecnologia e sua arma bo;
+28;Michelangelo;Kevin Eastman;Teenage Mutant Ninja Turtles;O palhaco da turma, amante de pizza e armado com nunchakus;
+29;Raphael;Kevin Eastman;Teenage Mutant Ninja Turtles;O bad boy das Tartarugas Ninja, com uma personalidade rebelde e usando sais como arma;
+30;Optimus Prime;Hasbro;Transformers;O lider dos Autobots, um robo que se transforma em um caminhao e luta pela paz e justica contra os Decepticons;
+31;Megatron;Hasbro;Transformers;O lider dos Decepticons, inimigo mortal de Optimus Prime, que se transforma em uma arma poderosa;
+32;Ash Ketchum;Satoshi Tajiri;Pokemon;Um jovem treinador Pokemon determinado a se tornar um Mestre Pokemon, sempre acompanhado por Pikachu;
+33;Sailor Moon;Naoko Takeuchi;Sailor Moon;Uma estudante que se transforma em uma guerreira magica para lutar contra as forcas do mal;
+34;Goku;Akira Toriyama;Dragon Ball;Um guerreiro Saiyajin com habilidades extraordinarias, sempre em busca de se tornar mais forte e proteger a Terra;
+35;Vegeta;Akira Toriyama;Dragon Ball;O principe dos Saiyajins, rival e eventual aliado de Goku, conhecido por sua ambicao e orgulho;
+36;Naruto Uzumaki;Masashi Kishimoto;Naruto;Um ninja jovem e determinado que sonha em se tornar o Hokage, o lider de sua vila;
+37;Sasuke Uchiha;Masashi Kishimoto;Naruto;Um ninja talentoso e rival de Naruto, que busca vinganca contra seu irmao Itachi;
+38;Sakura Haruno;Masashi Kishimoto;Naruto;Uma ninja medica e membro da equipe de Naruto, conhecida por sua forca e inteligencia;
+39;Tintim;Herge;The Adventures of Tintin;Um jovem reporter e aventureiro que viaja pelo mundo solucionando misterios;
+40;Capitao Haddock;Herge;The Adventures of Tintin;Um marinheiro robusto e amigo leal de Tintim, conhecido por sua coragem e seu amor por whisky;
+41;Asterix;Rene Goscinny;Asterix;Um guerreiro gaules pequeno mas corajoso, que luta contra os romanos com a ajuda de uma pocao magica;
+42;Obelix;Rene Goscinny;Asterix;O melhor amigo de Asterix, um gigante gentil que caiu em um caldeirao de pocao magica quando bebe, ganhando forca sobre-humana;
+43;Jerry;Chuck Jones;Tom and Jerry;Um pequeno rato marrom que sempre consegue escapar das tentativas de captura do gato Tom;
+44;Tom;Chuck Jones;Tom and Jerry;Um gato cinza que esta constantemente tentando capturar Jerry, mas geralmente falha de maneira comica;
+45;Pica-Pau;Walter Lantz;Woody Woodpecker;Um pica-pau travesso e brincalhao, conhecido por seu riso caracteristico e suas travessuras;
+46;Pateta;Walt Disney;Goofy;Um cao antropomorfico atrapalhado e bonachao, amigo de Mickey Mouse e Donald Duck;
+47;Penelope Pitstop;William Hanna;Wacky Races;Uma piloto de corridas corajosa e engenhosa, sempre escapando das armadilhas do vilao Dick Dastardly;
+48;Dick Dastardly;William Hanna;Wacky Races;Um vilao trapaceiro que tenta vencer as corridas de qualquer maneira, sempre acompanhado por seu cao Muttley;
+49;Muttley;William Hanna;Wacky Races;O cao assistente de Dick Dastardly, conhecido por seu riso unico e sua habilidade de voar;
+50;Johnny Bravo;Van Partible;Johnny Bravo;Um jovem narcisista e musculoso, constantemente tentando conquistar mulheres, mas sempre falhando;
+51;Dexter;Genndy Tartakovsky;Dexter's Laboratory;Um jovem genio cientifico que cria invencoes incriveis em seu laboratorio secreto;
+52;Samurai Jack;Genndy Tartakovsky;Samurai Jack;Um samurai que viaja no tempo, lutando contra o malvado feiticeiro Aku para voltar ao seu proprio tempo;
+53;Aku;Genndy Tartakovsky;Samurai Jack;O principal antagonista de Samurai Jack, um feiticeiro demoniaco que envia Jack para o futuro;
+54;Stewie Griffin;Seth MacFarlane;Family Guy;Um bebe extremamente inteligente e malevolo, com planos de dominar o mundo e destruir sua mae, Lois;
+55;Brian Griffin;Seth MacFarlane;Family Guy;O cao falante e sofisticado da familia Griffin, melhor amigo de Stewie;
+56;Mordecai;J.G. Quintel;Regular Show;Um gaio-azul pregui�oso e sarcastico, sempre envolvido em situacoes bizarras ao lado de seu melhor amigo, Rigby;
+57;Rigby;J.G. Quintel;Regular Show;Um guaxinim hiperativo e impulsivo, companheiro de Mordecai em suas aventuras no Parque;
+58;Finn;Pendleton Ward;Adventure Time;Um garoto aventureiro que explora o mundo de Ooo ao lado de seu melhor amigo e irmao adotivo, Jake, o cao;
+59;Jake;Pendleton Ward;Adventure Time;Um cao magico com a habilidade de mudar de forma e tamanho, melhor amigo e companheiro de Finn;
+60;Princess Bubblegum;Pendleton Ward;Adventure Time;A governante inteligente e bondosa do Reino Doce, cientista habilidosa e amiga de Finn e Jake;
+61;Ice King;Pendleton Ward;Adventure Time;Um rei solitario com o poder de controlar gelo e neve, obcecado em capturar princesas;
+62;Beavis;Mike Judge;Beavis and Butt-Head;Um adolescente idiota e imaturo, conhecido por suas risadas irritantes e sua obsessao por heavy metal;
+63;Butt-Head;Mike Judge;Beavis and Butt-Head;O melhor amigo de Beavis, igualmente estupido e imaturo, com uma risada caracteristica e comportamento irresponsavel;
+64;Rick Sanchez;Dan Harmon;Rick and Morty;Um cientista brilhante e alcoolatra, avo de Morty, que leva seu neto em aventuras interdimensionais;
+65;Morty Smith;Dan Harmon;Rick and Morty;Um adolescente nervoso e inseguro, frequentemente arrastado para as aventuras perigosas de seu avo Rick;
+66;Bojack Horseman;Raphael Bob-Waksberg;BoJack Horseman;Um cavalo antropomorfico e ex-estrela de uma sitcom dos anos 90, lutando contra a depressao e tentando redescobrir seu lugar no mundo;
+67;Todd Chavez;Raphael Bob-Waksberg;BoJack Horseman;Um jovem sem rumo, melhor amigo de Bojack, conhecido por sua atitude relaxada e ideias absurdas;
+68;Princess Carolyn;Raphael Bob-Waksberg;BoJack Horseman;Uma gata antropomorfica, agente de Bojack e sua amiga de longa data, conhecida por sua determinacao e profissionalismo;
+69;Mr. Peanutbutter;Raphael Bob-Waksberg;BoJack Horseman;Um labrador amarelo antropomorfico e alegre, rival e amigo de Bojack, famoso por seu otimismo inabalavel;
+70;SpongeBob SquarePants;Stephen Hillenburg;SpongeBob SquarePants;Uma esponja do mar otimista e trabalhadora que vive no fundo do oceano na cidade de Fenda do Bikini;
+71;Patrick Star;Stephen Hillenburg;SpongeBob SquarePants;Uma estrela-do-mar amigavel e lenta, melhor amigo de Bob Esponja;
+72;Squidward Tentacles;Stephen Hillenburg;SpongeBob SquarePants;Um polvo mal-humorado e pretensioso, vizinho e colega de trabalho de Bob Esponja;
+73;Mr. Krabs;Stephen Hillenburg;SpongeBob SquarePants;O ganancioso proprietario do Siri Cascudo, restaurante onde Bob Esponja trabalha;
+74;Plankton;Stephen Hillenburg;SpongeBob SquarePants;O principal antagonista de Bob Esponja, sempre tentando roubar a receita do hamburguer de siri;
+75;Sandy Cheeks;Stephen Hillenburg;SpongeBob SquarePants;Uma esquila cientista e karateca do Texas que vive no fundo do mar em um domo de ar;
+76;Larry the Lobster;Stephen Hillenburg;SpongeBob SquarePants;Um lagosta musculoso e fanatico por fitness, que frequenta a academia com Bob Esponja;
+77;Mermaid Man;Stephen Hillenburg;SpongeBob SquarePants;Um super-heroi idoso que vive em um asilo, idolatrado por Bob Esponja;
+78;Barnacle Boy;Stephen Hillenburg;SpongeBob SquarePants;O fiel companheiro de Mermaid Man, tambem idoso e sempre irritado com as travessuras de Bob Esponja;
+79;King Neptune;Stephen Hillenburg;SpongeBob SquarePants;O governante dos mares, um tritao poderoso e respeitado no mundo de Bob Esponja;
+80;Dora the Explorer;Chris Gifford;Dora the Explorer;Uma garota aventureira que explora o mundo com a ajuda de seu mapa e seus amigos, sempre ensinando novas palavras e conceitos;
+81;Boots;Chris Gifford;Dora the Explorer;O melhor amigo de Dora, um macaco simpatico e brincalhao que a acompanha em suas aventuras;
+82;Swiper;Chris Gifford;Dora the Explorer;Um raposo travesso que esta sempre tentando roubar os itens de Dora, mas e sempre impedido por suas palavras magicas;
+83;The Map;Chris Gifford;Dora the Explorer;Um mapa falante que ajuda Dora a encontrar o caminho em suas aventuras, fornecendo instrucoes e direcoes;
+84;The Backpack;Chris Gifford;Dora the Explorer;Uma mochila falante que carrega os itens essenciais para as aventuras de Dora, sempre pronta para ajudar;
+85;Diego Marquez;Chris Gifford;Go, Diego, Go!;O primo de Dora, um jovem aventureiro que resgata animais em perigo com a ajuda de seus amigos;
+86;Caillou;Chouette Publishing;Caillou;Um garoto curioso e imaginativo que descobre o mundo ao seu redor, aprendendo licoes importantes com sua familia e amigos;
+87;Peppa Pig;Neville Astley;Peppa Pig;Uma porquinha animada que vive com sua familia, adorando brincar e pular em pocas de lama;
+88;George Pig;Neville Astley;Peppa Pig;O irmao mais novo de Peppa, um porquinho timido que adora dinossauros;
+89;Mummy Pig;Neville Astley;Peppa Pig;A mae de Peppa, uma porquinha carinhosa e responsavel, sempre pronta para ajudar seus filhos;
+90;Daddy Pig;Neville Astley;Peppa Pig;O pai de Peppa, um porquinho bem-humorado e desajeitado, que trabalha com mapas e gosta de contar piadas;
+91;Suzy Sheep;Neville Astley;Peppa Pig;A melhor amiga de Peppa, uma ovelhinha simpatica que adora brincar de faz de conta;
+92;Miss Rabbit;Neville Astley;Peppa Pig;Uma coelha que trabalha em praticamente todos os empregos da cidade, sempre pronta para ajudar;
+93;Granny Pig;Neville Astley;Peppa Pig;A avo de Peppa e George, uma porquinha amorosa que adora cuidar do jardim e contar historias;
+94;Grandpa Pig;Neville Astley;Peppa Pig;O avo de Peppa e George, um porquinho entusiasmado que ama navegar e cuidar do seu barco;
+95;Charlie e Lola;Lauren Child;Charlie and Lola;Charlie e um irmao mais velho paciente e Lola e sua irma ca�ula curiosa e imaginativa, vivendo diversas aventuras juntos;
+96;Ben 10;Man of Action;Ben 10;Um garoto que pode se transformar em diferentes alienigenas usando um dispositivo chamado Omnitrix;
+97;Gwen Tennyson;Man of Action;Ben 10;A prima de Ben, uma jovem esperta e habilidosa em magia, que o acompanha em suas aventuras;
+98;Kevin Levin;Man of Action;Ben 10;Um ex-inimigo de Ben que se torna seu aliado, capaz de absorver as propriedades de materiais ao seu redor;
+99;Vilgax;Man of Action;Ben 10;O principal vilao da serie, um alienigena poderoso e conquistador de planetas, que busca o Omnitrix para seus proprios fins;
+100;Edd;Danny Antonucci;Ed, Edd n Eddy;Um dos tres Eds, o mais inteligente e criativo, sempre elaborando planos engenhosos para ganhar dinheiro;
+101;Mari;ana;Vini;cius;
