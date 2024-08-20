@@ -46,6 +46,27 @@ cout << "|                                                                      
 cout << "'---------------------------------------------------------------------------------------------------------------'" << endl << endl;
 }
 
+void erro(){
+	
+  cout << "                         ________" << endl;
+  cout << " _________        ___.---''''''''---.___" << endl;
+  cout << ":______.-':      :  .----------------.  :" << endl;
+  cout << "| ______  |      | :                  : |" << endl;
+  cout << "|:______B:|      | |       Erro:      | |" << endl;
+  cout << "|:______B:|      | |                  | |" << endl;
+  cout << "|:______B:|      | | Nao foi possivel | |" << endl;
+  cout << "|         |      | |    realizar a    | |" << endl;
+  cout << "|:_____:  |      | |   requisicao!!   | |" << endl;
+  cout << "|    ==   |      | :                  : |" << endl;
+  cout << "|       O |      :  '----------------'  :" << endl;
+  cout << "|       o |      :'---...________...---'" << endl;
+  cout << "|       o |-._.-i___|'             |._  " << endl;
+  cout << "|'-.____o_|   '-.   '-...________...-'  `-._" << endl;
+  cout << ":_________:      `.____________________   `-.___.-." << endl;
+  cout << "                 .'.eeeeeeeeeeeeeeeeee.'.      :___:" << endl;
+  cout << "               .'.eeeeeeeeeeeeeeeeeeeeee.'." << endl;
+  cout << "              :____________________________:" << endl;
+}
 
 struct personagem
 {
@@ -77,7 +98,9 @@ void adicionarPersona(personagem *&lista, int &tamanho, int limite){
 	cin.getline(novaPersona.nomeTitulo, 50);
 	cout << "Faca uma breve descricao da sua personagem: " << endl;
 	cin.getline(novaPersona.descricao, 200);
-	cout<<"Personagem adicionada com sucesso!" << endl;
+	cout << "===================================================================================================" << endl << endl;
+	cout << "Personagem adicionada com sucesso!" << endl << endl;
+	cout << "===================================================================================================" << endl;
 	
 	lista[tamanho] = novaPersona;
 	tamanho++;
@@ -434,7 +457,7 @@ int main(){
     // Ordena a lista de personagens por ordem alfabética:
     if (requisicao == 6){
 	  shellSortNome(lista, tamanho);
-	  cout << endl << "Toda a lista foi ordenada com exito!" << endl;
+	  cout << endl << ".======================================." << endl << "| Toda a lista foi ordenada com exito! |" << endl << "'======================================'" << endl;
     }
 
     // Salvar os dados em outro arquivo .csv:
@@ -476,29 +499,11 @@ int main(){
 
     if (requisicao < 1 or requisicao > 10)
     {
-
-      cout << "                         ______" << endl;
-      cout << " _________        ___.---''''''---.___" << endl;
-      cout << ":______.-':      :  .--------------.  :" << endl;
-      cout << "| ______  |      | :                : |" << endl;
-      cout << "|:______B:|      | |      Erro:     | |" << endl;
-      cout << "|:______B:|      | |                | |" << endl;
-      cout << "|:______B:|      | |   Requisicao   | |" << endl;
-      cout << "|         |      | |   invalida!    | |" << endl;
-      cout << "|:_____:  |      | |                | |" << endl;
-      cout << "|    ==   |      | :                : |" << endl;
-      cout << "|       O |      :  '--------------'  :" << endl;
-      cout << "|       o |      :'---...______...---'" << endl;
-      cout << "|       o |-._.-i___|'             |._  " << endl;
-      cout << "|'-.____o_|   '-.   '-...______...-'  `-._" << endl;
-      cout << ":_________:      `.____________________   `-.___.-." << endl;
-      cout << "                 .'.eeeeeeeeeeeeeeeeee.'.      :___:" << endl;
-      cout << "               .'.eeeeeeeeeeeeeeeeeeeeee.'." << endl;
-      cout << "              :____________________________:" << endl;
+      erro();
     }
 
-    cout << "Deseja voltar a pagina inicial?" << endl
-         << "Digite 1 para sim ou qualquer outro numero para caso deseja finalizar a aplicacao: " << endl;
+    cout << ".---------------------------------." << endl <<"| Deseja voltar a pagina inicial? |" << endl << "'---------------------------------'--------------------------------------------------." << endl
+         << "| Digite 1 para sim ou qualquer outro numero para caso deseja finalizar a aplicacao: |" << endl << "'------------------------------------------------------------------------------------'" << endl;
 
     int resposta;
     cin >> resposta;
@@ -511,28 +516,29 @@ int main(){
     }
   }
   
-  cout << "                         _____" << endl;
-  cout << "                   .d88888888bo." << endl;
-  cout << "                 .d8888888888888b." << endl;
-  cout << "                 8888888888888888b" << endl;
-  cout << "                 888888888888888888" << endl;
-  cout << "                 888888888888888888" << endl;
-  cout << "                  Y8888888888888888" << endl;
-  cout << "            ,od888888888888888888P" << endl;
-  cout << "         .'`Y8P'```'Y8888888888P'" << endl;
-  cout << "       .'_   `  _     'Y88888888b" << endl;
-  cout << "      |  _`    _ `      Y88888888b   ____     Volte sempre!" << endl;
-  cout << "   _  | |  |  |  |      8888888888.d888888b." << endl;
-  cout << "  d8b | | '|  | '|      8888888888d8888888888b" << endl;
-  cout << " 8888_| |_'/  |_'|      d888888888888888888888b" << endl;
-  cout << " .Y8P  `'-.            d88888888888888888888888" << endl;
-  cout << "/          `          `      `Y8888888888888888" << endl;
-  cout << "|                        __    888888888888888P" << endl;
-  cout << " '                       ' `   dPY8888888888P'" << endl;
-  cout << "  '._                  .'     .'  `Y888888P`" << endl;
-  cout << "     `''-.,__    ___.-'    .-' " << endl;
-  cout << "         `-._````  __..--'`" << endl;
-  cout << "             ``````" << endl;
+cout << "                         _____                                                                               " << endl;
+cout << "                     .d88888888bo.                      _______________________________________________      " << endl;
+cout << "                   .d8888888888888b.                  .'           _    __                   _     _   '.    " << endl;
+cout << "                   8888888888888888b                .'        /'  | |  /_/                  (_)   | |    |   " << endl;
+cout << "                   888888888888888888               |        /  ' | |_ __    _ __ ___   __ _ _ ___| |     |  " << endl;
+cout << "                   888888888888888888          .    |       / /' '| __/ _'. | '_ ` _ './ _` | / __| |     |  " << endl;
+cout << "                    Y8888888888888888   '           |      / ____ ' ||  __/ | | | | | | (_| | ,__'._|     |  " << endl;
+cout << "              ,od888888888888888888P                 |    /_/    '_'_ .___| |_| |_| |_|.__,_|_|___(_)    |   " << endl;
+cout << "           .'`Y8P'```'Y8888888888P'         *         '.    ___________________________________________.'    " << endl;
+cout << "         .'_   `  _     'Y88888888b                    /   /                                                 " << endl;
+cout << "       /  _`    _ `      Y88888888b   ____           .'   /     .      '      .                             *" << endl;
+cout << "    _  | /  '  /  '      8888888888.d888888b.      /.,. .'   _|_                   *        |         '      " << endl;
+cout << "   d8b | | /|  | /|      8888888888d8888888888b               |             ,             --|--              " << endl;
+cout << "  8888_' '_|/  '_|/      d888888888888888888888b     .                  '.  :  /            |                " << endl;
+cout << "   TY8P  `'-.            d88888888888888888888888          *    '     `. __/'.__ .'                 .        " << endl;
+cout << "  /          `          `      `Y8888888888888888                     _ '.     /_ _       '                  " << endl;
+cout << "  |                        __    888888888888888P          '             /_   _'.              *             " << endl;
+cout << "  '.                       / `   dPY8888888888P'                .      .' '. /  `.      |                    " << endl;
+cout << "    '._                  .'     .'  `Y888888P`                           /  :  '.       |                    " << endl;
+cout << "       `''-..__    ___.-'     .-'                     *           '         '        ___|___        *        " << endl;
+cout << "           `-._````____..--'`                  '                                        |                    " << endl;
+cout << "                                                                .         *             |                    " << endl;
+cout << "                                                                                        |                    " << endl;
 
   delete[] lista;
   return 0;
