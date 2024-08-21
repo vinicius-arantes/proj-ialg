@@ -1,3 +1,13 @@
+// Projeto prático de Introdução a Algoritmos
+//
+// Sistema de Cadastro de Personagens de Desenho Animado
+//
+// Intergrantes do grupo:
+// Mariana Laura Gonçalves Campos Rufo
+// Vínicius Souza Arantes
+// Mattheus Jordany Vicente Rodrigues 
+
+
 #include <iostream>
 #include <fstream>
 #include <string>
