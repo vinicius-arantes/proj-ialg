@@ -56,28 +56,6 @@ cout << "|                                                                      
 cout << "'---------------------------------------------------------------------------------------------------------------'" << endl << endl;
 }
 
-void erro(){
-	
-  cout << "                         ________" << endl;
-  cout << " _________        ___.---''''''''---.___" << endl;
-  cout << ":______.-':      :  .----------------.  :" << endl;
-  cout << "| ______  |      | :                  : |" << endl;
-  cout << "|:______B:|      | |       Erro:      | |" << endl;
-  cout << "|:______B:|      | |                  | |" << endl;
-  cout << "|:______B:|      | | Nao foi possivel | |" << endl;
-  cout << "|         |      | |    realizar a    | |" << endl;
-  cout << "|:_____:  |      | |   requisicao!!   | |" << endl;
-  cout << "|    ==   |      | :                  : |" << endl;
-  cout << "|       O |      :  '----------------'  :" << endl;
-  cout << "|       o |      :'---...________...---'" << endl;
-  cout << "|       o |-._.-i___|'             |._  " << endl;
-  cout << "|'-.____o_|   '-.   '-...________...-'  `-._" << endl;
-  cout << ":_________:      `.____________________   `-.___.-." << endl;
-  cout << "                 .'.eeeeeeeeeeeeeeeeee.'.      :___:" << endl;
-  cout << "               .'.eeeeeeeeeeeeeeeeeeeeee.'." << endl;
-  cout << "              :____________________________:" << endl;
-}
-
 struct personagem
 {
   int id;
@@ -108,9 +86,9 @@ void adicionarPersona(personagem *&lista, int &tamanho, int limite){
 	cin.getline(novaPersona.nomeTitulo, 50);
 	cout << "Faca uma breve descricao da sua personagem: " << endl;
 	cin.getline(novaPersona.descricao, 200);
-	cout << "===================================================================================================" << endl << endl;
-	cout << "Personagem adicionada com sucesso!" << endl << endl;
-	cout << "===================================================================================================" << endl;
+	cout << ".====================================." << endl;
+	cout << "| Personagem adicionada com sucesso! |" << endl;
+	cout << "'===================================='" << endl;
 	
 	lista[tamanho] = novaPersona;
 	tamanho++;
@@ -205,13 +183,19 @@ void atualizaPersona(personagem lista[], int tamanho)
         cout << "Faca uam breve descricao da sua personagem: " << endl;
         cin.getline(lista[i].descricao,200);
         
-        cout << endl << "Personagem atualizada com sucesso!" << endl << "=======================================================================================================" << endl;
+        cout << ".====================================." << endl;
+        cout << "| Personagem atualizada com sucesso! |" << endl;
+        cout << "'===================================='" << endl;
       }
     }
   }
   if (!achou)
   {
+	cout << endl;
     cout << "Personagem nao encontrado!" << endl;
+    cout << "==========================" << endl;
+    cout << "  ======================" << endl;
+    cout << endl;
   }
 }
 
@@ -229,19 +213,25 @@ void busca(personagem lista[], int tamanho)
       if (strcmp(lista[i].nomePersona, pesquisa) == 0){
         achou = true;
         cout << endl;
+        cout << "========================================================================================" << endl;
         cout << "ID: " << lista[i].id;
         cout << endl;
-        cout << "Nome do Personagem: " << lista[i].nomePersona << endl
-             << "Criador: " << lista[i].nomeCriador << endl
-             << "Titulo do Desenho: " << lista[i].nomeTitulo << endl
-             << "Descricao: " << lista[i].descricao << endl
-             << endl;
+        cout << "Nome do Personagem: " << lista[i].nomePersona << endl;
+        cout << "Criador: " << lista[i].nomeCriador << endl;
+        cout << "Titulo do Desenho: " << lista[i].nomeTitulo << endl;
+        cout << "Descricao: " << lista[i].descricao << endl;
+        cout << "========================================================================================";
+        cout << endl;
       }
     }
   }
   if (!achou)
   {
+    cout << endl;
     cout << "Personagem nao encontrado!" << endl;
+    cout << "==========================" << endl;
+    cout << "  ======================" << endl;
+    cout << endl;
   }
 }
 
@@ -263,13 +253,20 @@ void apagar(personagem lista[], int tamanho)
         achou = true;
         lista[i].id = -1;
         cout << endl;
-        cout << "Personagem apagado com sucesso!";
+        cout << ".=================================." << endl;
+        cout << "| Personagem apagada com sucesso! |" << endl;
+        cout << "'================================='" << endl;
+        cout << endl;
       }
     }
   }
   if (!achou)
   {
+    cout << endl;
     cout << "Personagem nao encontrado!" << endl;
+    cout << "==========================" << endl;
+    cout << "  ======================" << endl;
+    cout << endl;
   }
 }
 
@@ -298,9 +295,17 @@ void deletar(personagem lista[], int &tamanho)
     delete[] lista;
     tamanho = novoTamanho;
     lista = novaLista;
-    cout << "Personagens deletados com sucesso!";
+    cout << endl;
+    cout << ".====================================." << endl;
+    cout << "| Personagens deletadas com sucesso! |" << endl;
+    cout << "'===================================='" << endl;
+    cout << endl;
   } else {
-    cout << "Certo! Personagens nao serao deletados.";
+    cout << endl;
+    cout << ".=========================================." << endl;
+    cout << "| Certo! Personagens nao serao deletados. |" << endl;
+    cout << "'========================================='" << endl;
+    cout << endl;
   }
 }
 
@@ -326,7 +331,11 @@ void atualizarCsv(personagem lista[], int tamanho)
 			}
 		saida.close();
   } else {
+    cout << endl;
     cout << "Não foi possível acessar o arquivo!" << endl;
+    cout << "==================================" << endl;
+    cout << "  ==============================" << endl;
+    cout << endl;
   }
 }
 
@@ -339,8 +348,17 @@ void outroCsv(personagem lista[], int tamanho, string nomeArq){
       saida << lista[i].id << ";" << lista[i].nomePersona << ";" << lista[i].nomeCriador << ";" << lista[i].nomeTitulo << ";" << lista[i].descricao << ";" << endl;
     }
     saida.close();
+    cout << endl;
+        cout << ".====================." << endl;
+        cout << "| Salvo com sucesso! |" << endl;
+        cout << "'===================='" << endl;
+        cout << endl;
   } else {
-    cout << "Nao foi possivel acessar o arquivo!" << endl;
+    cout << endl;
+    cout << "Não foi possível acessar o arquivo!" << endl;
+    cout << "==================================" << endl;
+    cout << "  ==============================" << endl;
+    cout << endl;
   }
 }
 
@@ -434,7 +452,11 @@ int main(){
             }
           }
 	  } else {
-		cout << "Opcao invalida!" << endl;  
+		cout << endl;
+        cout << "Opção inválida!" << endl;
+        cout << "===============" << endl;
+        cout << "  ===========" << endl;
+        cout << endl; 
 	  }
     }
 
@@ -461,13 +483,21 @@ int main(){
     // Ordena a lista de personagens por ID:
     if (requisicao == 5){
 	  shellSortId(lista, tamanho);
-	  cout << endl << "Toda a lista foi ordenada com exito!" << endl;
+	    cout << endl;
+        cout << ".======================================." << endl;
+        cout << "| Toda a lista foi ordenada com exito! |" << endl;
+        cout << "'======================================'" << endl;
+        cout << endl;
     }
 
     // Ordena a lista de personagens por ordem alfabética:
     if (requisicao == 6){
 	  shellSortNome(lista, tamanho);
-	  cout << endl << ".======================================." << endl << "| Toda a lista foi ordenada com exito! |" << endl << "'======================================'" << endl;
+	    cout << endl;
+        cout << ".======================================." << endl;
+        cout << "| Toda a lista foi ordenada com exito! |" << endl;
+        cout << "'======================================'" << endl;
+        cout << endl;
     }
 
     // Salvar os dados em outro arquivo .csv:
@@ -493,23 +523,37 @@ int main(){
     // Salvar todas as alterações feitas no arquivo .csv:
     if (requisicao == 10){
 	  atualizarCsv(lista, tamanho);
-	  cout << "Atualizacoes feitas com sucesso!" << endl;
-	  cout << "=========================================================================================================" << endl;
+	  cout << endl;
+        cout << ".==================================." << endl;
+        cout << "| Atualizações feitas com sucesso! |" << endl;
+        cout << "'=================================='" << endl;
+        cout << endl;
     }
      
     // Finaliza o programa:
     if (requisicao == 11){
-		int resposta;
-		cout << "Deseja realmente encerrar as atividades?" << endl << "Digite 1 para sim e qualquer outro numero para nao: " << endl;
-		cin >> resposta;
-		if(resposta == 1){
-		recomecar = false;	
-		}
+		recomecar = false;
     }
 
-    if (requisicao < 1 or requisicao > 10)
-    {
-      erro();
+    if (requisicao < 1 or requisicao > 11){
+      cout << "                         ________" << endl;
+	  cout << " _________        ___.---''''''''---.___" << endl;
+      cout << ":______.-':      :  .----------------.  :" << endl;
+      cout << "| ______  |      | :                  : |" << endl;
+      cout << "|:______B:|      | |       Erro:      | |" << endl;
+      cout << "|:______B:|      | |                  | |" << endl;
+      cout << "|:______B:|      | | Nao foi possivel | |" << endl;
+      cout << "|         |      | |    realizar a    | |" << endl;
+      cout << "|:_____:  |      | |   requisicao!!   | |" << endl;
+      cout << "|    ==   |      | :                  : |" << endl;
+      cout << "|       O |      :  '----------------'  :" << endl;
+      cout << "|       o |      :'---...________...---'" << endl;
+      cout << "|       o |-._.-i___|'             |._  " << endl;
+      cout << "|'-.____o_|   '-.   '-...________...-'  `-._" << endl;
+      cout << ":_________:      `.____________________   `-.___.-." << endl;
+      cout << "                 .'.eeeeeeeeeeeeeeeeee.'.      :___:" << endl;
+      cout << "               .'.eeeeeeeeeeeeeeeeeeeeee.'." << endl;
+      cout << "              :____________________________:" << endl;
     }
 
     cout << ".---------------------------------." << endl <<"| Deseja voltar a pagina inicial? |" << endl << "'---------------------------------'--------------------------------------------------." << endl
