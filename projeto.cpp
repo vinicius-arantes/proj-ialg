@@ -434,6 +434,7 @@ int main(){
 		    cin >> posInicio;	  	  
 		  }
 		  
+		  cout << "Digite o ultimo elemento que queira ver: " << endl;
 		  int posFinal;
 		  cin >> posFinal;
 		  if(posFinal <= 0 or posFinal < posInicio or posFinal > tamanho){
